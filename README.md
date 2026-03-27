@@ -1,6 +1,7 @@
 # Hiperautomação com RAG para Gestão Operacional de Condomínio Logístico
 
 Este repositório apresenta um projeto acadêmico de hiperautomação cognitiva aplicado à gestão operacional de um condomínio logístico, utilizando Inteligência Artificial e Retrieval Augmented Generation (RAG).
+O trabalho aborda a integração entre tecnologias de IA, processamento de linguagem natural e organização de bases documentais, com o objetivo de automatizar a consulta e interpretação de informações operacionais em um ambiente corporativo.
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Projeto](https://img.shields.io/badge/projeto-acadêmico-blue)
@@ -76,7 +77,14 @@ Desenvolver um assistente inteligente capaz de consultar documentos operacionais
 
 ---
 
+## 🎓 Contexto Acadêmico
+
+Este projeto foi desenvolvido no contexto acadêmico do curso de Análise e Desenvolvimento de Sistemas, com foco na aplicação prática dos conceitos de hiperautomação, inteligência artificial e recuperação de informações por meio da arquitetura Retrieval Augmented Generation (RAG).
+
+🏫 Instituição: Faculdade Nova Roma
+📚 Disciplina: Projeto Integrador V
+👨‍🏫 Professor: Álvaro Pinheiro
+
 ## 👩‍💻 Autoria
 
-Cristiane  
-Projeto acadêmico de hiperautomação com IA
+Cristiane Hayashi
