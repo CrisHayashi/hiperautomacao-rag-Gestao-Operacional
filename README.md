@@ -87,4 +87,4 @@ Este projeto foi desenvolvido no contexto acadêmico do curso de Análise e Dese
 
 ## 👩‍💻 Autoria
 
-Cristiane Hayashi
+Cristiane Hayashi V Lima
