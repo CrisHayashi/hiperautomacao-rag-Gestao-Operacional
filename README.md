@@ -82,7 +82,9 @@ Desenvolver um assistente inteligente capaz de consultar documentos operacionais
 Este projeto foi desenvolvido no contexto acadêmico do curso de Análise e Desenvolvimento de Sistemas, com foco na aplicação prática dos conceitos de hiperautomação, inteligência artificial e recuperação de informações por meio da arquitetura Retrieval Augmented Generation (RAG).
 
 🏫 Instituição: Faculdade Nova Roma
+
 📚 Disciplina: Projeto Integrador V
+
 👨‍🏫 Professor: Álvaro Pinheiro
 
 ## 👩‍💻 Autoria
